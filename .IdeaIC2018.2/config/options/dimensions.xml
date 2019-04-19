@@ -1,0 +1,15 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="191" />
+    <location key="new project wizard.0.0.1920.1080" x="601" y="47" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="963" y="437" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="655" y="342" />
+    <location key="#Project_Structure.0.0.1920.1080" x="440" y="93" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="602" y="172" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="682" y="431" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="278" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="278" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="278" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="278" />
+  </component>
+</application>
